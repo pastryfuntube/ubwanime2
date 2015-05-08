@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+
+#main{
+  background-color: black;
+}
+
+#stream{
+  margin: auto 0;
+}
+
+#chat{
+
+}
+
+#chat iframe{
+  width: 300px;
+}
